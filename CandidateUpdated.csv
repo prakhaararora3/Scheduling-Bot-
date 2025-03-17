@@ -1,0 +1,101 @@
+Candidate_ID,Raw_Input_Text,Time_Zone,Email,Converted_Day,Converted_Slot,Duckling_Used
+1,Tuesday: available from 13:00-13:30.,US/Eastern,prakhararora60@gmail.com,Monday,16:00-16:31,True
+2,Thursday works; free at 14:00-14:30.,US/Pacific,prakhararora60@gmail.com,Monday,17:00-17:31,True
+3,Wednesday: available at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Monday,01:00-01:31,True
+4,I can join a meeting on Thursday at 14:00-14:30.,US/Central,prakhararora60@gmail.com,Thursday,17:00-17:31,True
+5,"I could meet Friday, but only before 2pm.",US/Eastern,prakhararora60@gmail.com,None,None,True
+6,I have time on Friday at 15:00-15:30.,US/Central,prakhararora60@gmail.com,Friday,18:00-18:31,True
+7,"I could meet Friday, but only before 2pm.",US/Eastern,prakhararora60@gmail.com,None,None,True
+8,I'm available on Tuesday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Tuesday,13:00-13:31,True
+9,I can attend on Thursday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Thursday,13:00-13:31,True
+10,free on Tuesday around 15:00-15:30.,US/Eastern,prakhararora60@gmail.com,Tuesday,18:00-18:31,True
+11,free on Tuesday around 11:00-11:30.,UTC,prakhararora60@gmail.com,Tuesday,14:00-14:31,True
+12,"Early Tuesday, around 11am would be perfect.",US/Eastern,prakhararora60@gmail.com,None,None,True
+13,"Monday, I have a free slot at 13:00-13:30.",UTC,prakhararora60@gmail.com,Monday,16:00-16:31,True
+14,I can attend a meeting on Thursday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Thursday,13:00-13:31,True
+15,Friday is perfect at 15:00-15:30.,US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+16,"For Monday, my slot is 13:00-13:30.",US/Central,prakhararora60@gmail.com,Monday,16:00-16:31,True
+17,First thing Thursday morning works best for me.,UTC,prakhararora60@gmail.com,Thursday,03:00-15:00,True
+18,"Wednesday late afternoon, around 4pm",US/Eastern,prakhararora60@gmail.com,None,None,True
+19,I'm available on Tuesday at 11:00-11:30.,US/Eastern,prakhararora60@gmail.com,Tuesday,14:00-14:31,True
+20,"Wednesday, sometime after 2pm is good.",UTC,prakhararora60@gmail.com,Wednesday,17:00-17:30,True
+21,I prefer Wednesday before noon.,US/Central,prakhararora60@gmail.com,None,None,True
+22,"On Monday, free at 14:00-14:30.",US/Central,prakhararora60@gmail.com,Monday,17:00-17:31,True
+23,My Monday availability is 11:00-11:30.,US/Pacific,prakhararora60@gmail.com,Monday,02:00-02:31,True
+24,"I have availability all day Friday, especially in the afternoon.",UTC,prakhararora60@gmail.com,Monday,15:00-22:00,True
+25,I can join a meeting on Thursday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Thursday,13:00-13:31,True
+26,"Tuesday, available at 15:00-15:30.",US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+27,"On Wednesday, my availability is 11:00-11:30.",US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+28,Friday is perfect at 15:00-15:30.,US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+29,Thursday after lunch is ideal for me.,US/Eastern,prakhararora60@gmail.com,Thursday,15:00-15:30,True
+30,I can do Monday at 13:00-13:30.,US/Eastern,prakhararora60@gmail.com,Monday,16:00-16:31,True
+31,available on Friday at 14:00-14:30.,US/Central,prakhararora60@gmail.com,Friday,17:00-17:31,True
+32,"Tuesday, available at 11:00-11:30.",US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+33,I can attend a meeting on Thursday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Thursday,13:00-13:31,True
+34,I prefer Wednesday before noon.,US/Eastern,prakhararora60@gmail.com,None,None,True
+35,Thursday:free at 13:00-13:30.,US/Eastern,prakhararora60@gmail.com,Monday,16:00-16:31,True
+36,I can attend a meeting on Thursday at 14:00-14:30.,US/Central,prakhararora60@gmail.com,Thursday,17:00-17:31,True
+37,"Wednesday late afternoon, around 4pm",US/Eastern,prakhararora60@gmail.com,None,None,True
+38,I can attend on Thursday at 10:00-10:30.,UTC,prakhararora60@gmail.com,Thursday,13:00-13:31,True
+39,Thursday:free at 11:00-11:30.,US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+40,"I have availability all day Friday, especially in the afternoon.",UTC,prakhararora60@gmail.com,Monday,15:00-22:00,True
+41,I can attend a meeting on Thursday at 15:00-15:30.,US/Pacific,prakhararora60@gmail.com,Thursday,18:00-18:31,True
+42,"Tuesday, available at 15:00-15:30.",US/Central,prakhararora60@gmail.com,Monday,18:00-18:31,True
+43,"Tuesday, available at 13:00-13:30.",US/Pacific,prakhararora60@gmail.com,Monday,16:00-16:31,True
+44,"Tuesday, available at 11:00-11:30.",US/Central,prakhararora60@gmail.com,Monday,02:00-02:31,True
+45,open on Wednesday at 13:00-13:30.,US/Eastern,prakhararora60@gmail.com,Wednesday,16:00-16:31,True
+46,Wednesday is open at 15:00-15:30.,UTC,prakhararora60@gmail.com,Monday,18:00-18:31,True
+47,Wednesday: available at 11:00-11:30.,US/Central,prakhararora60@gmail.com,Monday,02:00-02:31,True
+48,"Wednesday, sometime after 2pm is good.",US/Eastern,prakhararora60@gmail.com,Wednesday,17:00-17:30,True
+49,"I have availability all day Friday, especially in the afternoon.",US/Eastern,prakhararora60@gmail.com,Monday,15:00-22:00,True
+50,Tuesday afternoon would work for me.,US/Central,prakhararora60@gmail.com,Tuesday,15:00-22:00,True
+51,My schedule opens on Wednesday at 14:00-14:30.,US/Eastern,prakhararora60@gmail.com,Wednesday,17:00-17:31,True
+52,"For Monday, my slot is 13:00-13:30.",US/Central,prakhararora60@gmail.com,Monday,16:00-16:31,True
+53,Friday works for me at 15:00-15:30.,US/Central,prakhararora60@gmail.com,Monday,18:00-18:31,True
+54,Friday works for me at 10:00-10:30.,US/Pacific,prakhararora60@gmail.com,Monday,01:00-01:31,True
+55,Monday: I'm open at 11:00-11:30.,US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+56,"I have availability all day Friday, especially in the afternoon.",US/Eastern,prakhararora60@gmail.com,Monday,15:00-22:00,True
+57,I'd prefer mid-day Tuesday if possible.,US/Eastern,prakhararora60@gmail.com,None,None,True
+58,"On Monday, I'm free at 11:00-11:30.",US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+59,"For Monday, my slot is 14:00-14:30.",UTC,prakhararora60@gmail.com,Monday,17:00-17:31,True
+60,Friday looks good at 11:00-11:30.,US/Central,prakhararora60@gmail.com,Monday,02:00-02:31,True
+61,Anytime Friday before 3pm works.,US/Eastern,prakhararora60@gmail.com,None,None,True
+62,Monday: I'm open at 11:00-11:30.,US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+63,I can attend on Thursday at 13:00-13:30.,US/Pacific,prakhararora60@gmail.com,Thursday,16:00-16:31,True
+64,Wednesday is open at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Monday,01:00-01:31,True
+65,I have time on Friday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Friday,13:00-13:31,True
+66,Friday works for me at 15:00-15:30.,UTC,prakhararora60@gmail.com,Monday,18:00-18:31,True
+67,My Monday availability is 10:00-10:30.,US/Pacific,prakhararora60@gmail.com,Monday,01:00-01:31,True
+68,"Tuesday, available at 10:00-10:30.",US/Eastern,prakhararora60@gmail.com,Monday,01:00-01:31,True
+69,I can do Monday at 11:00-11:30.,US/Eastern,prakhararora60@gmail.com,Monday,14:00-14:31,True
+70,Monday between 11am and noon works for me.,US/Eastern,prakhararora60@gmail.com,Monday,14:00-16:00,True
+71,Thursday after lunch is ideal for me.,US/Eastern,prakhararora60@gmail.com,Thursday,15:00-15:30,True
+72,Friday looks good at 13:00-13:30.,US/Eastern,prakhararora60@gmail.com,Monday,16:00-16:31,True
+73,I'd prefer mid-day Tuesday if possible.,US/Central,prakhararora60@gmail.com,None,None,True
+74,"Tuesday, available at 14:00-14:30.",US/Eastern,prakhararora60@gmail.com,Monday,17:00-17:31,True
+75,Wednesday: available at 15:00-15:30.,US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+76,I can attend a meeting on Thursday at 11:00-11:30.,UTC,prakhararora60@gmail.com,Thursday,14:00-14:31,True
+77,Tuesday: available from 14:00-14:30.,US/Eastern,prakhararora60@gmail.com,Monday,17:00-17:31,True
+78,"For Monday, my slot is 10:00-10:30.",US/Eastern,prakhararora60@gmail.com,Monday,01:00-01:31,True
+79,Wednesday: available at 13:00-13:30.,US/Pacific,prakhararora60@gmail.com,Monday,16:00-16:31,True
+80,My schedule opens on Wednesday at 13:00-13:30.,US/Central,prakhararora60@gmail.com,Wednesday,16:00-16:31,True
+81,My schedule for Wednesday is 11:00-11:30.,US/Eastern,prakhararora60@gmail.com,Monday,02:00-02:31,True
+82,Friday works for me at 15:00-15:30.,US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+83,"On Monday, I'm free at 15:00-15:30.",US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+84,free Monday after 10:30am.,US/Eastern,prakhararora60@gmail.com,Monday,13:30-14:00,True
+85,"Wednesday late afternoon, around 4pm",UTC,prakhararora60@gmail.com,None,None,True
+86,free Monday after 10:30am.,US/Eastern,prakhararora60@gmail.com,Monday,13:30-14:00,True
+87,"Tuesday morning, my slot is 14:00-14:30.",US/Eastern,prakhararora60@gmail.com,Tuesday,03:00-15:00,True
+88,I'm available on Tuesday at 10:00-10:30.,US/Eastern,prakhararora60@gmail.com,Tuesday,13:00-13:31,True
+89,"I have availability all day Friday, especially in the afternoon.",US/Eastern,prakhararora60@gmail.com,Monday,15:00-22:00,True
+90,Thursday after lunch is ideal for me.,UTC,prakhararora60@gmail.com,Thursday,15:00-15:30,True
+91,I can attend a meeting on Thursday at 15:00-15:30.,US/Pacific,prakhararora60@gmail.com,Thursday,18:00-18:31,True
+92,"I have availability all day Friday, especially in the afternoon.",US/Eastern,prakhararora60@gmail.com,Monday,15:00-22:00,True
+93,"Tuesday morning, my slot is 13:00-13:30.",US/Pacific,prakhararora60@gmail.com,Tuesday,03:00-15:00,True
+94,Friday works for me at 15:00-15:30.,US/Eastern,prakhararora60@gmail.com,Monday,18:00-18:31,True
+95,"Early Tuesday, around 11am would be perfect.",US/Eastern,prakhararora60@gmail.com,None,None,True
+96,I can do Monday at 13:00-13:30.,US/Eastern,prakhararora60@gmail.com,Monday,16:00-16:31,True
+97,"Wednesday, sometime after 2pm is good.",UTC,prakhararora60@gmail.com,Wednesday,17:00-17:30,True
+98,"I have availability all day Friday, especially in the afternoon.",US/Central,prakhararora60@gmail.com,Monday,15:00-22:00,True
+99,Friday works for me at 13:00-13:30.,UTC,prakhararora60@gmail.com,Monday,16:00-16:31,True
+100,Friday works for me at 15:00-15:30.,US/Pacific,prakhararora60@gmail.com,Monday,18:00-18:31,True
